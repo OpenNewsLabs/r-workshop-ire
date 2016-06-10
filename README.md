@@ -10,8 +10,8 @@ data + code for Getting started with R &amp; More with R workshop at IRE confere
                                       !!           +             !!  !
                                       !!      More with R        !!  !
                                       !!                         !!  !
-                                      !!           iRe           !!  !
-                                      !!     LEARN TO LOVE R     !!  /
+                                      !! @iRe 2016, where you'll !!  !
+                                      !!    LEARN TO LOVE R      !!  /
                                       !!_________________________!! /
                                       !/_________________________\!/
                                        __\_________________/__/!_  )
