@@ -1,6 +1,8 @@
 # r-workshop-ire
-data + code for Getting started with R &amp; More with R workshop at IRE conference
 
+Data + Code for Getting started with R &amp; More with R workshop at the [IRE conference](http://www.ire.org/conferences/ire-2016/) in New Orleans
+
+Saturday, June 18th 2016
 
 ```                                       ____________________________
                                       !\_________________________/!\
@@ -22,4 +24,4 @@ data + code for Getting started with R &amp; More with R workshop at IRE confere
                                     /ooooooooooooooooooooooo/ /    (o o)
                                    /o=_____________________/_/    ==\o/==
 ```
-http://www.nola.com/politics/index.ssf/2011/02/new_orleans_officials_2010_pop.html
+
