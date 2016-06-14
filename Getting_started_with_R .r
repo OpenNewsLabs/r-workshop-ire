@@ -1,11 +1,11 @@
 
 census2000 <- read.csv('2000_census_demographic_profile.csv')
 
-head(census2000)
+View(head(census2000))
 
 census2000 <- read.csv('2000_census_demographic_profile.csv', skip = 1)
 
-head(census2000)
+View(head(census2000))
 
 ## if dplyr was not installed we would have to run this
 # install.packages('dplyr')
@@ -22,13 +22,14 @@ census2000.trimmed <- select(
     Number..HOUSING.OCCUPANCY...Total.housing.units...Vacant.housing.units
 )
 
-head(census2000.trimmed)
+View(head(census2000.trimmed))
 
 colnames(census2000.trimmed) <- c(
     'fips.code', 'geography', 'population',
     'total.housing.units', 'occupied.housing.units', 'vacant.housing.units'
 )
-head(census2000.trimmed)
+
+View(head(census2000.trimmed))
 
 str(census2000.trimmed)
 
@@ -38,7 +39,7 @@ library('stringr')
 
 census2000.trimmed$population <- str_replace(census2000.trimmed$population, pattern = ',', replacement = '')
 
-head(census2000.trimmed)
+View(head(census2000.trimmed))
 
 census2000.trimmed$population <- as.numeric(census2000.trimmed$population)
 
@@ -50,7 +51,7 @@ census2000.trimmed$vacant.housing.units <- as.numeric(str_replace(census2000.tri
 
 str(census2000.trimmed)
 
-head(census2000.trimmed, 10)
+View(head(census2000.trimmed, 10))
 
 # install.packages('tidyr')
 
@@ -65,7 +66,7 @@ census2000.trimmed <- separate(
     ', '
 )
 
-head(census2000.trimmed)
+View(head(census2000.trimmed))
 
 table(census2000.trimmed$parish)
 
@@ -113,6 +114,7 @@ census.comparison <- merge(
     suffixes = c('.00', '.10'), 
     all = TRUE
 )
-head(census.comparison)
+
+View(head(census.comparison))
 
 write.csv(census.comparison, 'census_comparison.csv', row.names = FALSE)

@@ -1,6 +1,6 @@
 
 census <- read.csv('census_comparison.csv')
-head(census)
+View(head(census))
 
 ## if dplyr was not installed we would have to run this
 # install.packages('dplyr')
@@ -48,7 +48,7 @@ summarise_each(
 
 parishes$perc.pop.diff <- (parishes$population.10 - parishes$population.00) / parishes$population.00 * 100
 
-head(parishes)
+View(head(parishes))
 
 parishes %>% 
 select(parish, population.00, population.10, perc.pop.diff) %>% # select the columns of interest
@@ -86,3 +86,4 @@ predicted.values <- predict(curved.model)
 
 plot(parishes$population.10, parishes$perc.occupied.10)
 lines(sort(parishes$population.10), sort(predicted.values))
+
