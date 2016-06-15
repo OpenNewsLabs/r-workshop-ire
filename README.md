@@ -33,7 +33,7 @@ Data + Code for Getting started with R &amp; More with R workshop at the [IRE co
 ## Links to install R and RStudio
 
 * [R](https://www.r-project.org/): website for the R software
-* [RStudio](https://www.rstudio.com/): website for R Studio, a powerful graphical user interface for R
+* [RStudio](https://www.rstudio.com/): website for RStudio, a powerful graphical user interface for R
 
 ## How to use these files
 
