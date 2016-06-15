@@ -1,9 +1,5 @@
 # r-workshop-ire
 
-Data + Code for Getting started with R &amp; More with R workshop at the [IRE conference](http://www.ire.org/conferences/ire-2016/) in New Orleans
-
-Saturday, June 18th 2016
-
 ```                                       ____________________________
                                       !\_________________________/!\
                                       !!                         !! \
@@ -25,3 +21,25 @@ Saturday, June 18th 2016
                                    /o=_____________________/_/    ==\o/==
 ```
 
+Data + Code for Getting started with R &amp; More with R workshop at the [IRE conference](http://www.ire.org/conferences/ire-2016/) in New Orleans on Saturday, June 18th 2016
+
+## Why R?
+
+* R makes it easy to automate data cleaning and analysis tasks
+* R by default leaves a trail of code that documents all the work you've done, unlike a program like Excel
+* R has a nice user interface called RStudio, where you can write code, view data, perform analyses and even make visualizations
+* R is free and open source
+
+## Links to install R and RStudio
+
+* [R](https://www.r-project.org/): website for the R software
+* [RStudio](https://www.rstudio.com/): website for R Studio, a powerful graphical user interface for R
+
+## Questions?
+
+Christine.Zhang@latimes.com
+Ryan.Menezes@latimes.com
+
+or on Twitter
+[@christinezhang]((https://twitter.com/christinezhang)
+[@ryanvmenezes](https://twitter.com/ryanvmenezes)
