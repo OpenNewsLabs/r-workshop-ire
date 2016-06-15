@@ -35,6 +35,11 @@ Data + Code for Getting started with R &amp; More with R workshop at the [IRE co
 * [R](https://www.r-project.org/): website for the R software
 * [RStudio](https://www.rstudio.com/): website for R Studio, a powerful graphical user interface for R
 
+## How to use these files
+
+* You can clone or download this repository by clicking on the green button above, "Clone or download"
+* We recommend opening the .r files in RStudio while reading .ipynb notebooks online by clicking the links provided
+
 ## Questions?
 
 Christine.Zhang@latimes.com
