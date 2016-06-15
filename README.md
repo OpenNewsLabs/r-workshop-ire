@@ -38,8 +38,11 @@ Data + Code for Getting started with R &amp; More with R workshop at the [IRE co
 ## Questions?
 
 Christine.Zhang@latimes.com
+
 Ryan.Menezes@latimes.com
 
 or on Twitter
+
 [@christinezhang](https://twitter.com/christinezhang)
+
 [@ryanvmenezes](https://twitter.com/ryanvmenezes)
