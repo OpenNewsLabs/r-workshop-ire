@@ -38,7 +38,7 @@ Data + Code for Getting started with R &amp; More with R workshop at the [IRE co
 ## How to use these files
 
 * You can clone or download this repository by clicking on the green button above, "Clone or download"
-* We recommend opening the .r files in RStudio while reading .ipynb notebooks online by clicking the links provided
+* We recommend opening the .r files in RStudio while reading the .ipynb notebooks online by clicking the Github links above
 
 ## Questions?
 
