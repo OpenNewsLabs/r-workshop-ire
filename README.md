@@ -41,5 +41,5 @@ Christine.Zhang@latimes.com
 Ryan.Menezes@latimes.com
 
 or on Twitter
-[@christinezhang]((https://twitter.com/christinezhang)
+[@christinezhang](https://twitter.com/christinezhang)
 [@ryanvmenezes](https://twitter.com/ryanvmenezes)
