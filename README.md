@@ -28,7 +28,8 @@ Data + Code for Getting started with R &amp; More with R workshop at the [IRE co
 * R makes it easy to automate data cleaning and analysis tasks
 * R by default leaves a trail of code that documents all the work you've done, unlike a program like Excel
 * R has a nice user interface called RStudio, where you can write code, view data, perform analyses and even make visualizations
-* R is free and open source
+* R can read several types of data files - geospatial data, JSON, XML feeds, csv/txt/xlsx/xls formats. Converting between them is simple, too
+* R is free and open source. The community is ever growing and extremely helpful - from local R Meetups and the annual useR conference, to online forums like StackOverflow, to #rstats on Twitter
 
 ## Links to install R and RStudio
 
